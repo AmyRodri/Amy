@@ -1,4 +1,4 @@
-## Opa! Sou o Gustavo Rdrigues
+## Opa! Sou o Gustavo Rodrigues
 
  <div>
   <a href="https://github.com/Guuuto">
@@ -7,4 +7,4 @@
 </div>
 
 
-### ola
+## Ola
