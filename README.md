@@ -1,4 +1,4 @@
-## Opa! Sou o Gustavo Rodrigues
+## Opa! Sou o Amy Rodrigues
 
  <div>
   <a href="https://github.com/Guuuto">
